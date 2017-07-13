@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 11th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Stephen Putnal
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was designed to teach us how to make a functional photo gallery web page. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://stephenputnal.github.io/putnal_lesson6_javascript3_git/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to make the photo gallery move right and left to view all of the images.
+2. We learned how to clone a node using a faster than normal method. 
+3. We also learned how to use the addEventListener method.
